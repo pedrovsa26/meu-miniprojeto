@@ -1,0 +1,2 @@
+# meu-miniprojeto
+miniprojeto SCTEC
